@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+target/
+frontend/dist/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Storefrontend/node_modules/
